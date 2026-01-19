@@ -166,7 +166,7 @@ The current tier is always visible in the security state bar.
 ### Build from Source
 
 ```bash
-git clone https://github.com/yourusername/SDS.git
+git clone https://github.com/akyairhashvil/SDS.git
 cd SDS
 go build -o sds ./cmd/sds
 ```
